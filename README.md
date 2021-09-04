@@ -8,4 +8,8 @@ This is a repo for code review guidelines and templates.
 ## Golang review guidelines
 https://github.com/golang/go/wiki/CodeReviewComments
 
+## Typescript/Javascript
+
+https://microsoft.github.io/code-with-engineering-playbook/code-reviews/
+
 

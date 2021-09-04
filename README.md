@@ -1,2 +1,4 @@
 # code-review
-Code review guidelines and templates
+This is a repo for code review guidelines and templates.
+
+

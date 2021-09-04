@@ -10,6 +10,11 @@ https://github.com/golang/go/wiki/CodeReviewComments
 
 ## Typescript/Javascript
 
-https://microsoft.github.io/code-with-engineering-playbook/code-reviews/
+https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/javascript-and-typescript/
 
+
+## More resources
+
+1. https://google.github.io/eng-practices/review/reviewer/standard.html
+2. https://static1.smartbear.co/smartbear/media/pdfs/best-kept-secrets-of-peer-code-review_redirected.pdf
 
